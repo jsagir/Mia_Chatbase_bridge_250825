@@ -1,0 +1,12 @@
+{
+  "name": "mia-chatbase-bridge",
+  "version": "1.0.0",
+  "description": "Chatbase API Integration Proxy",
+  "dependencies": {
+    "axios": "^1.6.5"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  }
+}
